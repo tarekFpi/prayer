@@ -1,0 +1,2 @@
+C:/Users/Tarek/prayer-App/android/app/.cxx/Debug/h1e5ua6r/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Tarek/prayer-App/android/app/.cxx/Debug/h1e5ua6r/armeabi-v7a/CMakeFiles/rebuild_cache.dir

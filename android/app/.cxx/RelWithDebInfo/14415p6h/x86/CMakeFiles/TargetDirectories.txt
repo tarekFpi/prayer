@@ -1,0 +1,2 @@
+C:/Users/Tarek/OfficeWork/prayer-App/android/app/.cxx/RelWithDebInfo/14415p6h/x86/CMakeFiles/edit_cache.dir
+C:/Users/Tarek/OfficeWork/prayer-App/android/app/.cxx/RelWithDebInfo/14415p6h/x86/CMakeFiles/rebuild_cache.dir

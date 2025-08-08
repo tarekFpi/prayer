@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "800661131096",
+    "project_id": "prayer-app-61250",
+    "storage_bucket": "prayer-app-61250.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800661131096:android:aed617fce6838028531f2d",
+        "android_client_info": {
+          "package_name": "com.prayer.prayer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800661131096-vf5vsus03i7j6083i1q86au55ldac69c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prayer.prayer_app",
+            "certificate_hash": "45b7c41fe7e06fbc99056904c124f910c6889d69"
+          }
+        },
+        {
+          "client_id": "800661131096-n1v1st2g39dqbhkfq89tifloqtnbis04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOv2fQTBltIoE77kvKRqtux7yKYjXoKkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800661131096-n1v1st2g39dqbhkfq89tifloqtnbis04.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800661131096-nc91pgearptlqg3cdrm5ecl6n4tqfo30.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prayerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

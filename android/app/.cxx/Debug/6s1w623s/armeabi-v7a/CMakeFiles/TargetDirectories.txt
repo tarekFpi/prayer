@@ -1,0 +1,2 @@
+C:/Users/Tarek/OfficeWork/prayer-App/android/app/.cxx/Debug/6s1w623s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Tarek/OfficeWork/prayer-App/android/app/.cxx/Debug/6s1w623s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
